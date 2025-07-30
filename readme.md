@@ -10,7 +10,7 @@
 
 ### Установка
 ```bash
-git clone https://github.com/yourrepo/scheduler.git
+git clone https://github.com/marryivanova/scheduler-.git
 cd scheduler
 pip install poetry
 poetry install
